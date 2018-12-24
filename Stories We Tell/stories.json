@@ -1,0 +1,38 @@
+{
+  "description": "The Scriptwriter",
+ 
+  "stories": [
+    {
+    
+      "Location": [
+        "That night in the kitchen,",
+        "It was a bright day in the garden",
+        "The walls of the fortress were high"
+      ]
+    },
+    {
+    
+      "Emotions": [
+        "She felt scared by what stood before her",
+        "She felt peace in that moment",
+        "She had a lump in her throat"
+      ]
+    },
+    {
+    
+      "Action": [
+        "She took a knife and shoved it into his stomach",
+        "And ran her fingers through her hair",
+        "She pet the back of her iguana"
+      ]
+    },
+    {
+      "Dialogue": [
+        "‘I am not going to let you get the better of me’ she yells.",
+        "‘It’s a new beginning,' she said.",
+         "‘Don’t let me down’ she whispered."
+      ]
+    }
+      ]
+  
+    
